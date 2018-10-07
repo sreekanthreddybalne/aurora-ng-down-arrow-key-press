@@ -1,6 +1,6 @@
 angular.
   module('directive').
-  directive('downArrowKeyPress', function () {
+  directive('auroraNgDownArrowKeyPress', function () {
   return function (scope, element, attrs) {
       element.bind("keydown keypress", function (event) {
           if(event.which === 40) {
