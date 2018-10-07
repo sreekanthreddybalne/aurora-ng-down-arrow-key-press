@@ -1,1 +1,1 @@
-An AngularJS directive binding Enter key press.
+An AngularJS directive binding input element Enter key press.
