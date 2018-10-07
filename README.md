@@ -1,7 +1,7 @@
-auroraNgDownArroyKeyPress
+auroraNgDownArrowKeyPress
 =========================
 
-An AngularJS directive binding input element with Enter key press.
+An AngularJS directive binding input element with Down Arrow key press.
 
 ## Features
 - works similar to `onkeypress="if(event.which==40)"` and `onkeydown="if(event.which==40)"`of Javascript events.
